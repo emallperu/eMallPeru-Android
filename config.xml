@@ -10,6 +10,7 @@
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="24" />
+    <preference name="android-targetSdkVersion=28" />
     <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.2.4" />
     <!--- se inhabilita los plugins de camara
     <plugin name="cordova-plugin-camera" source="npm" spec="~2.4.1" />
