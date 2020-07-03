@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "eMall Peru",
+  "short_name": "eMall Peru",
+  "version": "com.daljo25.emallperu",
+  "description": "App Oficial de eMallperu.com el primer mall virtual del Peru",
+  "author": "PhoneGap Team",
+  "icons": [],
+  "start_url": "index.html"
+}
